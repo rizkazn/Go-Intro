@@ -19,5 +19,9 @@
       <img src="https://res.cloudinary.com/rizkazn/image/upload/v1635823866/soal_2_week_16_mn0nh8.png" width="700px" alt="" />
       <p align="center">Task II</p>
     </th>
+    <th>
+      <img src="https://res.cloudinary.com/rizkazn/image/upload/v1635823870/soal_3_week_16_ibjfvr.png" width="700px" alt="" />
+      <p align="center">Task III</p>
+    </th>
   </tr>
 </table>
