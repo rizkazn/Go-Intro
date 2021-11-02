@@ -12,8 +12,9 @@
 <table>
   <tr>
     <th>
-      
-      <img align="center" src="https://res.cloudinary.com/rizkazn/image/upload/v1635823866/soal_1_week_16_femf8z.png" width="700px" alt="Arkademylogo.svg" />
+      <center>
+      <img src="https://res.cloudinary.com/rizkazn/image/upload/v1635823866/soal_1_week_16_femf8z.png" width="700px" alt="" />
+      </center>
       Task I
       <p align="center"></p>
     </th>
